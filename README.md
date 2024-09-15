@@ -31,6 +31,9 @@ The Blinkit Sales Dashboard is an advanced analytics tool built with Power BI to
     - Modify the dashboard to fit specific needs.
     - Add additional data sources or visualizations as required.
 
+## Blink-it Sales Dashboard
+![Blinkit Sales Dashboard]( https://github.com/rohitshaarma13/Blinkit_Sales_Dashboard/blob/f7188e64960e30da80a3004597adf1712f8d3af7/Blink-it_Output.png)
+
 ## Contact
 
 For any inquiries or feedback, please contact(mailto:sharmarohits814@gmail.com).
